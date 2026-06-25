@@ -66,3 +66,24 @@ Desde ese momento empecé a ver el software de otra manera. No como algo que se 
 > *Aspiro a impactar profundamente en la vida de **mi hermano, mi mamá, mis amigos y mi familia**,*
 > *utilizando el desarrollo de software no solo como trabajo, sino como un medio para construir*
 > *seguridad, progreso y bienestar para ellos."*
+>
+> ---
+## 🚀 Proyectos destacados
+
+### 🏆 Agentes Visuales — Hackathon Campus Lands 2026
+![Ganador](https://img.shields.io/badge/🏆_Ganador-Hackathon-FFD700?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Agents](https://img.shields.io/badge/LLM_Agents-AI-412991?style=flat-square&logo=openai&logoColor=white)
+
+Sistema de **agentes visuales con IA**, desarrollado durante el Hackathon Campus Lands 2026.
+🔗 [Ver repositorio](https://github.com/alejandro-xoxo/HachatonCampuslans2026)
+
+---
+
+### 🛒 E-commerce — Proyecto Full Stack
+![Ecommerce](https://img.shields.io/badge/E--commerce-Proyecto-2ea44f?style=flat-square)
+
+Plataforma de comercio electrónico construida de punta a punta — diseño, lógica de negocio e infraestructura.
+🔗 [Ver repositorio](https://github.com/alejandro-xoxo/Proyecto_E-commerce_AcevedoMiguel)
+
+---
